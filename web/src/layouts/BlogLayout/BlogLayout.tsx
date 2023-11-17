@@ -3,7 +3,7 @@ import { Link, routes } from '@redwoodjs/router'
 type BlogLayoutProps = {
   children?: React.ReactNode
 }
-l
+
 const BlogLayout = ({ children }: BlogLayoutProps) => {
   return (
     <>
